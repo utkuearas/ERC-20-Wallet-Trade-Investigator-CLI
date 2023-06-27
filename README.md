@@ -8,5 +8,5 @@ It uses Alchemy API to request data from Ethereum blockchain. You need to get an
 
 **Usage**
 
-It's a basic numerical order based CLI tool. Just type the number of the order and tap ENTER to execute
+<code>erc-cli</code> for running CLI. It's a basic numerical order based CLI tool. Just type the number of the order and tap ENTER to execute
 
